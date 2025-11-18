@@ -23,7 +23,7 @@ controls:
         - path: ../lib/macos/configuration-profiles/disable-bluetooth-file-sharing.mobileconfig
         - path: ../lib/macos/configuration-profiles/passcode-settings-ddm.json
       enable_disk_encryption: true
-    ipad_os_updates:
+  ipad_os_updates:
       deadline: "2025-12-31"
       minimum_version: "26.0"
   scripts:
