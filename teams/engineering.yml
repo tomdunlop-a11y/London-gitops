@@ -23,7 +23,7 @@ controls:
     - path: ../lib/macos/scripts/set-timezone.script.sh
 team_settings:
   secrets:
-    - secret: "$FLEET_WORKSTATIONS_ENROLL_SECRET"
+    - secret: "$FLEET_ENGINEERING_ENROLL_SECRET"
   features:
     enable_host_users: true
     enable_software_inventory: true
